@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/Pods-test_crypto/Pods-test_crypto-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL

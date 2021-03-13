@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_crypto.iml" filepath="$PROJECT_DIR$/.idea/modules/test_crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test_crypto.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test_crypto.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-445130948/test_crypto.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-445130948/test_crypto.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1917710171/test_crypto.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1917710171/test_crypto.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/810281498/test_crypto.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/810281498/test_crypto.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
